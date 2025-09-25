@@ -36,8 +36,8 @@
     *   Several products have kinds of pricing, like Chocolate Chip Biscotti, it showed an obviously negative elasticity of demand, which means price increase leads to a proportionally larger decrease in sales.
     *   All pricing raise happened on the 9th of each month, some at the end of month.
 
-[Shop Level Dashboard:](https://public.tableau.com/app/profile/jack.zhao2450/viz/CoffeeShopLevelAnalysis/Dashboard1)
+[Shop Level Dashboard from Tableau:](https://public.tableau.com/app/profile/jack.zhao2450/viz/CoffeeShopLevelAnalysis/Dashboard1)
 <img width="3838" height="1918" alt="Dashboard_shop" src="https://github.com/user-attachments/assets/67eefe03-4d93-475b-b6db-5a91e06a9eaa" />
 
-[Product_Level_Dashboard:](https://public.tableau.com/app/profile/jack.zhao2450/viz/ProductLevelAnalysis/Dashboard1)
+[Product_Level_Dashboard from Tableau:](https://public.tableau.com/app/profile/jack.zhao2450/viz/ProductLevelAnalysis/Dashboard1)
 <img width="3838" height="1918" alt="Dashboard_product" src="https://github.com/user-attachments/assets/55ef4152-b37b-4ed0-8424-22fa9e6bdfe7" />
