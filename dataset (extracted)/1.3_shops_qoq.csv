@@ -1,0 +1,7 @@
+"store_id","store_location","quarter","total_revenue","prev_quarter_revenue","qtr_revenue_growth"
+3,"Astoria","Q1","85254.43","",""
+3,"Astoria","Q2","146989.48","85254.43","0.724"
+5,"Lower Manhattan","Q1","84752.16","",""
+5,"Lower Manhattan","Q2","145305.09","84752.16","0.714"
+8,"Hell's Kitchen","Q1","86651.02","",""
+8,"Hell's Kitchen","Q2","149860.15","86651.02","0.729"
